@@ -1,10 +1,3 @@
 // Write your solution here!
-let pets = [];
+const append = [];
 
-function append (pet) {
-  array.push(pet);
-}
-
-function prepend(pet) {
-  array.unshift(pet);
-}
