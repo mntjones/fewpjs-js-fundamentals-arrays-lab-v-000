@@ -1,7 +1,10 @@
 // Write your solution here!
 let pets = [];
 
-pets.append("Odie");
-pets.prepend("Norbert");
-pets.shift();
-pets.unshift();
+function append (pet) {
+  array.push(pet);
+}
+
+function prepend(pet) {
+  array.unshift(pet);
+}
